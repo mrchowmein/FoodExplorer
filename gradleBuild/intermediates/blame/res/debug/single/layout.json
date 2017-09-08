@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_stylize.xml"
+    },
+    {
+        "merged": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/camera_connection_fragment.xml",
+        "source": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/res/layout/camera_connection_fragment.xml"
+    },
+    {
+        "merged": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/gradleBuild/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/res/layout/activity_camera.xml"
+    }
+]

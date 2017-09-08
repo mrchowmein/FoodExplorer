@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jasonchanmbp1/.android/build-cache/0c10e355007c16a29d4666aededb3b1012169c78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/Users/jasonchanmbp1/japanesefood2/tensorflow-for-poets-2/android/gradleBuild/intermediates/pre-dexed/debug/classes_4e25384397d448f250fd778c1490eb5ec53f85da.jar" />
+    </item>
+
+</items>
